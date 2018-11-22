@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea
+*.iml
+annotations
+
+# Gradle
+.gradle
+build
+local.properties
+reports
+jacoco.exec
+
+.DS_Store
