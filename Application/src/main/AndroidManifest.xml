@@ -59,6 +59,7 @@
         <activity android:name="com.example.android.autofill.app.antipatterns.CallbackLessAutoCompleteSignInActivity" />
         <activity android:name="com.example.android.autofill.app.edgecases.CustomThemeSignInActivity"
                   android:theme="@style/CustomAutofilledHighlightTheme" />
+        <activity android:name="com.example.android.autofill.app.commoncases.CreditCardPostalCodeActivity" />
     </application>
 
 </manifest>

@@ -38,6 +38,7 @@
     <string name="navigation_button_anti_pattern_hintless_signin_label">Hintless Sign In Anti Pattern</string>
     <string name="navigation_button_anti_pattern_callbackless_autocomplete_login_label">Auto Complete without Autofill Integration Anti Pattern</string>
     <string name="navigation_button_custom_theme_login_label">Sign In Using Custom Theme</string>
+    <string name="navigation_button_postal_code_credit_card_label">Sample Credit Card with Postal Code</string>
     <string name="username_label">Username</string>
     <string name="password_label">Password</string>
     <string name="welcome_text">Success!</string>
@@ -52,6 +53,7 @@
     <string name="credit_card_expiration_year_label">CC Exp Year</string>
     <string name="credit_card_security_code_label">CC Security Code</string>
     <string name="credit_card_security_code_abbrev_label">CSC</string>
+    <string name="credit_card_postal_code_label">ZIP/Postal code</string>
     <string name="ok">OK</string>
     <string name="slash">/</string>
     <string name="cancel">Cancel</string>
@@ -162,6 +164,10 @@
 
     <string name="custom_theme_login_info">
         <!--TODO-->
+    </string>
+
+    <string name="postal_code_credit_card_info">
+        <!-- TODO -->
     </string>
 
     <string name="partition_credentials">Credentials</string>
